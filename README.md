@@ -24,10 +24,7 @@ In order to consider the environment has been solved, the agent must get an aver
 
 ### Repository
 
-Clone the repository - 
-```bash
-git clone https://github.com/abhisheksgumadi/continuous-control.git .
-```
+
 
 ### Jupyter Notebook
 Install jupyter notebook with the command
